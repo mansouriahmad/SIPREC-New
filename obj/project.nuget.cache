@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V9B3BGMfUVIzHp3UHYBfrKwIr5cPSZKMIuHQAxg2nH2IB4GNP44n14Z6lyPBlEyBm3ZnCdRAaInuTdRRhSYiaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\SIPREC-New\\SIPREC-New.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\ictbaden.pjsua\\1.2.3\\ictbaden.pjsua.1.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
